@@ -395,7 +395,7 @@ parameters:
 - name: SOURCE_REPOSITORY_URL
   description: The source URL for the application
   displayName: Source URL
-  value: https://github.com/dummy_org/dummy_repo
+  value: https://github.com/ericboyer/limping-downtown.git
   required: true
 - name: GITHUB_WEBHOOK_SECRET
   description: The secret used to configure a GitHub webhook
